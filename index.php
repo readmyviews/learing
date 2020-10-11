@@ -2,6 +2,6 @@
 
 echo "testing git push";
 echo "<br/>";
-echo "Added new changes";
+echo "Added new changes"
 
 ?>
