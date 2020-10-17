@@ -23,11 +23,9 @@
  */
 
 
-<<<<<<< HEAD
-echo "Pratik Patel 123 4546546456";
-=======
+
 echo "Pratik Patel 123 454564654654";
->>>>>>> development
+
 
 
 $VERSION='$Id: apc.php 325483 2012-05-01 00:34:04Z rasmus $';
