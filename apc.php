@@ -25,6 +25,8 @@
 
 echo "Pratik Patel 123 454564654654 454646";
 
+echo "test";die;
+
 
 $VERSION='$Id: apc.php 325483 2012-05-01 00:34:04Z rasmus $';
 
